@@ -1,0 +1,16 @@
+EuphoricDeity PoC
+[Notepad DoS]
+
+Creates a file, and when the program runs out of memory it opens with notepad. The program continues to attempt writing and reading from the file, therefore notepad can never load the text file. Notepad also eats a lot of CPU during this time. 
+
+Steps:
+1> Create file.
+2> Determine if OOM
+
+3> If OOM, execute notepad.
+3a> Go back to writing.
+3b> Notepad stops responding, ggwp.
+
+4> If not OOM, continue writing.
+
+For full exploit and embeds please email de.april@execs.com

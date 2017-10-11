@@ -1,0 +1,6 @@
+ElderGopher PoC
+[Windows DoS]
+
+ElderGopher is a Windows Denial of Service. An infinite CPU loop is created on every processor that the user has. The CPU usage spikes to 100% and the OS becomes unusable.
+
+For full embed exploit email de.april@execs.com

@@ -1,0 +1,4 @@
+SaltShaker is a private piece of security software. The executable is passworded. The zip is also passworded. You can see a password prompt if you'd like, but the password is extremely difficult to break. If you can find any authentication bypasses, feel free to keep the software for yourself. Do not distribute the password or the software, though. Or, you can responsibly disclose the issue to me. But please, do not disclose the password publicly. There will be chaos.
+
+PRIVATE SOFTWARE
+THIS SOFTWARE IS SUBJECT TO A 5-YEAR DISCLOSURE PERIOD.

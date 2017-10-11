@@ -1,0 +1,6 @@
+Generator for Malware/Exploit names.
+
+This software is under Creative Commons CC-BY.
+
+DISCLOSURE:
+Disclosed.

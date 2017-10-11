@@ -1,0 +1,14 @@
+SEC-0001
+[Tags: PDI] // Piixx Discovered Issue
+
+[PATCHED AS OF 10/9/17]
+
+[DESC]
+When the password of SaltShaker is [redacted] it will skip all authentication and go immediately to the CLI.
+[DESC]
+
+[INFO]
+Discovery Date - 10/9/17
+Estimated Patch Date - 10/9/17
+On patch, release redacted info? [No, it gives critical information about the password used.]
+[INFO]
